@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Sitemap: https://xkx-youcha.github.io/RFCom2025/sitemap.xml
