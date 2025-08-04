@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- replace WEBSITE with the address where this site is being hosted -->
-   <url>
-       <loc>WEBSITE</loc>
-   </url>
-   <url>
-       <loc>WEBSITE/registration</loc>
-   </url>
-   <url>
-       <loc>WEBSITE/program</loc>
-   </url>
-   <url>
-       <loc>WEBSITE/directions</loc>
-   </url>
-</urlset> 
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
+<url>
+  <loc>https://xkx-youcha.github.io/RFCom2025/</loc>
+  <lastmod>2025-06-15</lastmod>
+</url>
+
+
+</urlset>
